@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GayeonJin
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game development and programming
+- 🌱 I’m currently learning Python and JAVA
 - 📫 gayeon.jin@gmail.com
 
 <!---
